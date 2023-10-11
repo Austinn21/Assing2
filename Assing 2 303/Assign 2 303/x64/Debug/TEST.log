@@ -1,0 +1,8 @@
+﻿  Employee.cpp
+  Linkedlist.cpp
+  Nonprofessional.cpp
+C:\C++ Code\TEST\TEST\Nonprofessional.cpp(22,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Professional.cpp
+  Source.cpp
+  Generating Code...
+  TEST.vcxproj -> C:\C++ Code\TEST\x64\Debug\TEST.exe
